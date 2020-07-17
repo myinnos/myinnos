@@ -10,4 +10,4 @@ I am [Prabhakar Thota](https://www.myinnos.in/ "MyInnos"), Talented Mobile Engin
 
 >⚡ If you appreciate my work, consider buying me a cup of :coffee: to keep me recharged :metal: by [PayPal](https://www.paypal.me/fansfolio)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AppIconNameChanger)](https://github.com/myinnos/AppIconNameChanger) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AppIconNameChanger)](https://github.com/myinnos/AppIconNameChanger)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AlphabetIndex-Fast-Scroll-RecyclerView)](https://github.com/myinnos/AlphabetIndex-Fast-Scroll-RecyclerView) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AppIconNameChanger)](https://github.com/myinnos/AppIconNameChanger)
