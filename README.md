@@ -4,7 +4,7 @@ I am [Prabhakar Thota](https://www.myinnos.in/ "MyInnos"), Mobile Engineer, UI/U
 
 <img alt="GIF" height= 150 src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
-* 🌐 Website: [myinnos.in](http://www.myinnos.in "Prabhakar Thota") / [prabhakar.dev](http://www.prabhakar.dev "Prabhakar Thota")
+* 🌐 Website: [myinnos.in](https://www.myinnos.in "Prabhakar Thota") / [prabhakar.dev](http://www.prabhakar.dev "Prabhakar Thota")
 * 💼 LinkedIn: [prabhakarthota](https://www.linkedin.com/in/prabhakarthota "Prabhakar Thota on LinkedIn")
 * 📢 Clubhouse: [@prabhakar_thota](https://clubhouse.com/@prabhakar_thota "Prabhakar Thota on Clubhouse")   
 * 📷 Instagram: [@prabhakar_t_](https://www.instagram.com/prabhakar_t_/ "Prabhakar Thota on Instagram")   
