@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I am [Prabhakar Thota](https://www.myinnos.in/ "MyInnos"), Mobile Engineer, UI/UX with more than six years of experience in a broad range of industries. I believe in the quote, "Creativity is thinking up new things. Innovation is doing new things". The quote inspires me to be always creative, innovative and a learner. I always keep myself busy learning new things and doing research on little what I know.
+I am [Prabhakar Thota](https://www.myinnos.in/ "MyInnos"), Mobile Engineer, UI/UX with more than six years of experience in a broad range of industries. I believe in the quote, "Creativity is thinking up new things. Innovation is doing new things". The quote inspires me to be always creative, innovative and a learner. Also, I have built multiple android apps on my own, one of which has over [4.5 million downloads](https://play.google.com/store/apps/dev?id=7130452962130649213 "4.5 million").
 
 <img alt="GIF" height= 150 src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
