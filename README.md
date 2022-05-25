@@ -11,7 +11,10 @@ I am [Prabhakar Thota](https://www.myinnos.in/ "MyInnos"), Mobile Engineer, UI/U
 🗒️ Medium: [@myinnos](https://myinnos.medium.com/ "Prabhakar Thota on Medium")   
 👋 Clubhouse: [@prabhakar_thota](https://clubhouse.com/@prabhakar_thota "Prabhakar Thota on ClubHouse")   
 
->⚡ If you appreciate my work, consider buying me a cup of :coffee: to keep me recharged :metal: by [PayPal](https://www.paypal.me/fansfolio)
+>⚡ If you appreciate my work, consider buying me a cup of :coffee: to keep me recharged :metal: by [GitHub](https://github.com/sponsors/myinnos) or [PayPal](https://www.paypal.me/fansfolio)
+
+
+
 
 <!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AppFontChanger)](https://github.com/myinnos/AppFontChanger) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AppIconNameChanger)](https://github.com/myinnos/AppIconNameChanger) -->
 
