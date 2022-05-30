@@ -4,17 +4,31 @@ I am [Prabhakar Thota](https://www.myinnos.in/ "MyInnos"), Mobile Engineer, UI/U
 
 <img alt="GIF" height= 120 src="https://i.postimg.cc/v82qzLf7/dev-designer.gif" />
 
-🌐 Portfolio: [myinnos.in](https://www.myinnos.in "Prabhakar Thota") / [prabhakar.dev](http://www.prabhakar.dev "Prabhakar Thota")     
-💼 LinkedIn: [prabhakarthota](https://www.linkedin.com/in/prabhakarthota "Prabhakar Thota on LinkedIn")   
-📷 Instagram: [@prabhakar_t_](https://www.instagram.com/prabhakar_t_/ "Prabhakar Thota on Instagram")   
-🐦 Twitter: [@myinnos](https://twitter.com/MyInnos "Prabhakar Thota on Twitter")  
-🗒️ Medium: [@myinnos](https://myinnos.medium.com/ "Prabhakar Thota on Medium")   
-👋 Clubhouse: [@prabhakar_thota](https://clubhouse.com/@prabhakar_thota "Prabhakar Thota on ClubHouse")   
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 >⚡ If you appreciate my work, consider buying me a cup of :coffee: to keep me recharged :metal: by [GitHub](https://github.com/sponsors/myinnos) or [PayPal](https://www.paypal.me/fansfolio)
 
-
-
-
 <!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AppFontChanger)](https://github.com/myinnos/AppFontChanger) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AppIconNameChanger)](https://github.com/myinnos/AppIconNameChanger) -->
 
+
+#
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/prabhakarthota" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/myinnos" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
+   <a href="https://www.instagram.com/prabhakar_t_/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/-instagram-833AB4?style=flat-square&logo=instagram&logoColor=white"></a>
+   <a href="https://www.youtube.com/myinnos" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/-youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+  <br>
+    <a href="https://prabhakarthota.dev/" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=Hashnode&logoColor=white"></a>
+    <a href="https://myinnos.medium.com/" target="_blank"><img alt="medium" src="https://img.shields.io/badge/-medium-03a57a?style=flat-square&logo=medium&logoColor=white"></a>
+   <a href="https://dev.to/myinnos/" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"></a>
+    <a href="https://clubhouse.com/@prabhakar_thota" target="_blank"><img alt="clubhouse" src="https://img.shields.io/badge/-clubhouse-528c41?style=flat-square&logo=clubhouse&logoColor=white"></a>
+  <a href="https://www.producthunt.com/@myinnos" target="_blank"><img alt="producthunt" src="https://img.shields.io/badge/-producthunt-da552f?style=flat-square&logo=producthunt&logoColor=white"></a>
+</p>
+
+
+<div align="center">
+
+  ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/myinnos?style=for-the-badge)
+
+</div>
