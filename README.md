@@ -6,7 +6,7 @@ I am [Prabhakar Thota](https://www.myinnos.in/ "MyInnos"), Mobile Engineer, UI/U
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
->⚡ If you appreciate my work, consider buying me a cup of :coffee: to keep me recharged :metal: by [GitHub](https://github.com/sponsors/myinnos) or [PayPal](https://www.paypal.me/fansfolio)
+>⚡ If you appreciate my work, consider buying me a cup of [:coffee:](https://www.buymeacoffee.com/myinnos) to keep me recharged :metal: by [GitHub](https://github.com/sponsors/myinnos) or [PayPal](https://www.paypal.me/fansfolio)
 
 <!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AppFontChanger)](https://github.com/myinnos/AppFontChanger) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=myinnos&repo=AppIconNameChanger)](https://github.com/myinnos/AppIconNameChanger) -->
 
